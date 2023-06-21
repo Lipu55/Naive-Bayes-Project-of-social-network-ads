@@ -1,2 +1,3 @@
 # Naive-Bayes-Project-of-social-network-ads
 Social Network Ads Classification: Naive Bayes Project for Predictive Modeling
+# In this project, the objective is to classify social network ads using the Naive Bayes algorithm for predictive modeling. Naive Bayes is a probabilistic machine learning algorithm that uses Bayes' theorem to classify data points based on their feature probabilities.By applying the Naive Bayes algorithm to classify social network ads, this project aims to provide predictive modeling capabilities for future ad outcomes. The results can assist marketing teams and advertisers in making data-driven decisions, optimizing ad targeting strategies, and improving the effectiveness of their ad campaigns.
